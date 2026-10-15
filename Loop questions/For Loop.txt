@@ -1,0 +1,297 @@
+1. Print numbers from 1 to 5.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 5; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+2. Print numbers from 1 to 10.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+3. Print numbers from 1 to 15.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 15; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+4. Print numbers from 1 to 20.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 20; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+5. Print numbers from 1 to 25.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 25; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+6. Print numbers from 10 to 1.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 10; i >= 1; i--) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+7. Print numbers from 5 to 1.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 5; i >= 1; i--) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+8. Print numbers from 20 to 1.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 20; i >= 1; i--) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+9. Print your name 5 times.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("Daniyal");
+        }
+    }
+}
+
+------------------------------------------------------------
+
+10. Print Hello 10 times.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("Hello");
+        }
+    }
+}
+
+------------------------------------------------------------
+
+11. Print Java 5 times.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("Java");
+        }
+    }
+}
+
+------------------------------------------------------------
+
+12. Print numbers from 2 to 10.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 2; i <= 10; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+13. Print numbers from 5 to 15.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 5; i <= 15; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+14. Print even numbers from 2 to 10.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 2; i <= 10; i += 2) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+15. Print even numbers from 2 to 20.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 2; i <= 20; i += 2) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+16. Print odd numbers from 1 to 9.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 9; i += 2) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+17. Print odd numbers from 1 to 19.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 19; i += 2) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+18. Print multiples of 3 from 3 to 30.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 3; i <= 30; i += 3) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+19. Print multiples of 5 from 5 to 50.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 5; i <= 50; i += 5) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+20. Print the multiplication table of 2.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("2 x " + i + " = " + (2 * i));
+        }
+    }
+}
+
+------------------------------------------------------------
+
+21. Print the multiplication table of 3.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("3 x " + i + " = " + (3 * i));
+        }
+    }
+}
+
+------------------------------------------------------------
+
+22. Print the multiplication table of 5.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("5 x " + i + " = " + (5 * i));
+        }
+    }
+}
+
+------------------------------------------------------------
+
+23. Print the multiplication table of 7.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("7 x " + i + " = " + (7 * i));
+        }
+    }
+}
+
+------------------------------------------------------------
+
+24. Print numbers from 1 to 10, increasing by 2.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i += 2) {
+            System.out.println(i);
+        }
+    }
+}
+
+------------------------------------------------------------
+
+25. Print numbers from 10 to 100, increasing by 10.
+
+public class LoopQuestions {
+    public static void main(String[] args) {
+        for (int i = 10; i <= 100; i += 10) {
+            System.out.println(i);
+        }
+    }
+}
